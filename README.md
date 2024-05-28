@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mí
 
-## 📲 Contact me:
+## 📲 Contacto:
 
-- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:domingomr5@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/domingo-miño-redondo)
+- [![Email]](mailto:domingomr5@gmail.com)
+- [![LinkedIn]](https://www.linkedin.com/in/domingo-miño-redondo)
 
 ## 🛠️ Mis Skills:
 
