@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 ## 📲 Contacto:
 
-- [![Email]](mailto:domingomr5@gmail.com)
-- [![LinkedIn]](https://www.linkedin.com/in/domingo-miño-redondo)
+- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:domingomr5@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/domingo-miño-redondo)
 
 ## 🛠️ Mis Skills:
 
